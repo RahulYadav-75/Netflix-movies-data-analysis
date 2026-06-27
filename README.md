@@ -23,6 +23,8 @@ This project performs **Exploratory Data Analysis (EDA)** on the Netflix Movies 
 - NumPy
 - Matplotlib
 - Seaborn
+- Microsoft Excel
+- Kaggle
 
 ---
 
@@ -30,18 +32,16 @@ This project performs **Exploratory Data Analysis (EDA)** on the Netflix Movies 
 
 Dataset contains information such as:
 
-- Show ID
-- Type (Movie / TV Show)
+- Release_Date
 - Title
-- Director
-- Cast
-- Country
-- Date Added
-- Release Year
-- Rating
-- Duration
+- Overview
+- Popularity
+- Vote_count
+- Vote_Average
+- Original_Language
 - Genre
-- Description
+- Poster_Url
+  
 
 ---
 
@@ -62,7 +62,7 @@ The following preprocessing steps were performed:
 
 Some of the questions answered in this project include:
 
-- Distribution of Movies vs TV Shows
+- Distribution of Movies.
 - Top countries producing Netflix content
 - Content added over the years
 - Most common ratings
@@ -99,39 +99,9 @@ Netflix-movies-data-analysis/
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository
 
-```bash
-git clone https://github.com/RahulYadav-75/Netflix-movies-data-analysis.git
-```
 
-2. Open the project folder
-
-```bash
-cd Netflix-movies-data-analysis
-```
-
-3. Install required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-5. Open
-
-```
-movies data analysis netflix.ipynb
-```
-
----
 
 ## 📌 Key Insights
 
