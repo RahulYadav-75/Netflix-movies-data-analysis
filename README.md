@@ -62,14 +62,11 @@ The following preprocessing steps were performed:
 
 Some of the questions answered in this project include:
 
-- Distribution of Movies.
-- Top countries producing Netflix content
-- Content added over the years
-- Most common ratings
-- Top directors
-- Most popular genres
-- Movie duration analysis
-- Release year trends
+- What is the most frequent genre of movies released on Netflix?
+- What genres has highest votes?
+- What movie got the highest popularity? What’s its genre?
+- What movie got the lowest popularity? What’s its genre?
+- Which year has the most filmed movies?
 
 ---
 
@@ -77,11 +74,10 @@ Some of the questions answered in this project include:
 
 The notebook includes several visualizations such as:
 
-- Bar Charts
+- Catplot Charts
 - Count Plots
 - Pie Charts
 - Histograms
-- Heatmaps
 - Box Plots
 
 ---
@@ -106,7 +102,7 @@ Netflix-movies-data-analysis/
 ## 📌 Key Insights
 
 - Drama genre is the most frequent genre in our dataset and has appeared more than 14% of the times among 19 other genres.
--We have 25.5% of our dataset with popular vote (6520 rows).Drama again gets the highest popularity among fans by being having more than 18.5% of movies popularities.
+- We have 25.5% of our dataset with popular vote (6520 rows).Drama again gets the highest popularity among fans by being having more than 18.5% of movies popularities.
 - Spider-Man: No Way Home has the highest popularity rate in our dataset and it has genres of Action, Adventure and Sience Fiction 
 -  The united states, thread' has the highest lowest rate in our dataset and it has genres of music, drama, war,scifi and history.
 -  Year 2020 has the highest filmming rate in our dataset 
