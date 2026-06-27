@@ -105,12 +105,11 @@ Netflix-movies-data-analysis/
 
 ## 📌 Key Insights
 
-- Netflix has more Movies than TV Shows.
-- The United States contributes the highest number of titles.
-- Drama and International Movies are among the most common genres.
-- Content additions increased rapidly after 2015.
-- TV-MA is one of the most frequent content ratings.
-
+- Drama genre is the most frequent genre in our dataset and has appeared more than 14% of the times among 19 other genres.
+-We have 25.5% of our dataset with popular vote (6520 rows).Drama again gets the highest popularity among fans by being having more than 18.5% of movies popularities.
+- Spider-Man: No Way Home has the highest popularity rate in our dataset and it has genres of Action, Adventure and Sience Fiction 
+-  The united states, thread' has the highest lowest rate in our dataset and it has genres of music, drama, war,scifi and history.
+-  Year 2020 has the highest filmming rate in our dataset 
 ---
 
 ## 🎯 Learning Outcomes
